@@ -1,0 +1,9 @@
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.exe.config
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.exe
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\bin\Debug\PoisonedApples.pdb
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.csprojResolveAssemblyReference.cache
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.csproj.CoreCompileInputs.cache
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.exe
+c:\users\rich\source\repos\PoisonedApples\PoisonedApples\obj\Debug\PoisonedApples.pdb
+C:\Users\Rich\source\repos\PoisonedApples\PoisonedApples\bin\Debug\System.ValueTuple.dll
+C:\Users\Rich\source\repos\PoisonedApples\PoisonedApples\bin\Debug\System.ValueTuple.xml
